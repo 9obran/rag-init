@@ -1,0 +1,177 @@
+INTERNSHIP REPORT
+Wintershall Dea GmbH - Geological Operations Department
+Duration: June 15, 2024 - August 31, 2024 (12 weeks)
+Location: Kassel, Germany & North Sea Offshore Platforms
+
+=== EXECUTIVE SUMMARY ===
+
+This internship report documents my 12-week experience at Wintershall Dea GmbH,
+one of Europe's leading independent natural gas and crude oil producers. The internship
+focused on geological data analysis, reservoir characterization, and operational support
+for North Sea gas production facilities.
+
+=== COMPANY BACKGROUND ===
+
+Wintershall Dea is the largest German crude oil and natural gas producer.
+The company operates production facilities in several countries including:
+- Germany (onshore and offshore North Sea)
+- Norway (North Sea and Norwegian Sea)
+- Denmark (Danish North Sea sector)
+- United Kingdom (UK North Sea sector)
+- Argentina, Mexico, and other regions
+
+The company was formed through the merger of Wintershall (founded 1894) and DEA
+(Deutsche Erdöl AG, founded 1899), combining over 250 years of German oil and
+gas exploration heritage.
+
+=== INTERNSHIP OBJECTIVES ===
+
+1. Learn geological data analysis workflows for offshore reservoir management
+2. Understand seismic interpretation and well log analysis techniques
+3. Gain practical experience with subsurface modeling software (Petrel, IPM)
+4. Support production optimization studies for mature North Sea gas fields
+5. Understand safety protocols for offshore operations
+
+=== TECHNICAL WORK COMPLETED ===
+
+1. RESERVOIR CHARACTERIZATION - BRAVO FIELD
+
+Location: Southern North Sea, UK sector
+Water Depth: 32 meters
+Discovery Year: 1976
+Current Production: Natural gas from Permian Rotliegend sandstone
+
+I analyzed production data from 8 production wells and 3 injection wells.
+Key findings:
+- Average porosity: 15-18% in reservoir zones
+- Permeability range: 50-500 mD
+- Net-to-gross ratio: 0.65-0.78
+- Original gas in place (OGIP): 42 billion cubic meters (estimated)
+- Current recovery factor: 68%
+
+2. SEISMIC INTERPRETATION PROJECT
+
+Using Petrel software, I assisted in re-interpreting 3D seismic data covering
+120 square kilometers of the Bravo field area. Key activities:
+- Identified 3 previously unmapped faults with throws of 15-45 meters
+- Correlated seismic horizons with well log data from 11 wells
+- Mapped potential bypassed pay zones in the Lower Rotliegend
+- Generated structural maps showing top reservoir structure
+
+3. WELL LOG ANALYSIS
+
+I processed and interpreted wireline log data from:
+- 4 recent appraisal wells (drilled 2023-2024)
+- 6 legacy wells requiring re-interpretation
+
+Log suites analyzed:
+- Gamma Ray (GR)
+- Neutron Porosity (NPHI)
+- Density (RHOB)
+- Sonic (DT)
+- Resistivity (RT, RXO)
+- Nuclear Magnetic Resonance (NMR) - 2 wells
+
+4. PRODUCTION OPTIMIZATION STUDY
+
+Collaborated with production engineers to identify opportunities for
+gas rate enhancement. Analysis included:
+- Well performance curves for 8 producing wells
+- Nodal analysis to identify tubing constraints
+- Compression requirements for declining wells
+- Artificial lift evaluation for condensate-rich wells
+
+Recommended interventions:
+- Well Bravo-12: Install velocity string to reduce liquid loading
+- Well Bravo-07: Evaluate gas lift implementation
+- Well Bravo-03: Re-perforate upper zone (identified from seismic)
+
+=== OFFSHORE EXPERIENCE ===
+
+I spent 5 days on the L8-A production platform in the Dutch North Sea sector:
+- Observed well testing and production operations
+- Witnessed pigging operations for pipeline maintenance
+- Participated in daily operations meetings
+- Understood safety protocols (BOSIET certification required)
+- Learned about offshore logistics and helicopter operations
+
+=== SOFTWARE & TOOLS USED ===
+
+- Petrel (Schlumberger) - Geological modeling and seismic interpretation
+- IPM (Petroleum Experts) - Integrated production modeling
+- Eclipse (Schlumberger) - Reservoir simulation
+- Techlog (Schlumberger) - Well log interpretation
+- Python with pandas, numpy - Data analysis and automation
+- Microsoft Excel - Production data analysis
+
+=== KEY LEARNINGS ===
+
+1. Technical Skills:
+- Advanced log interpretation techniques for tight gas reservoirs
+- Seismic-to-well tie methodology
+- Uncertainty quantification in subsurface characterization
+- Production system analysis for gas wells
+
+2. Industry Knowledge:
+- North Sea regulatory environment and safety standards
+- Economics of mature field management
+- Carbon capture and storage (CCS) integration plans
+- Energy transition challenges facing upstream companies
+
+3. Professional Development:
+- Cross-functional collaboration between geology, engineering, and operations
+- Technical presentation skills (presented findings to asset team)
+- Understanding of corporate HSE culture
+- Importance of data quality and validation
+
+=== CHALLENGES ENCOUNTERED ===
+
+1. Data Integration: Legacy well data existed in multiple formats requiring
+   extensive cleaning and validation before analysis.
+
+2. Uncertainty Management: Balancing technical interpretations with economic
+   constraints and operational feasibility.
+
+3. Time Constraints: Completing seismic interpretation within internship timeline
+   while maintaining quality standards.
+
+=== RECOMMENDATIONS ===
+
+1. For the Bravo Field:
+   - Implement 4D seismic monitoring to track gas-water contact movement
+   - Consider infill drilling targeting bypassed pay
+   - Evaluate compression to extend plateau production
+
+2. For Future Internship Programs:
+   - Earlier assignment of specific project scope
+   - More hands-on software training sessions
+   - Additional offshore exposure if possible
+
+=== CONCLUSION ===
+
+This internship provided invaluable practical experience in upstream oil and gas
+operations. The combination of technical work (seismic interpretation, log analysis)
+and operational exposure (offshore platform visit) gave me a comprehensive understanding
+of how geological understanding directly impacts production decisions.
+
+I am grateful to Wintershall Dea for this opportunity and particularly thank:
+- Dr. Schmidt (Lead Geologist, North Sea Assets)
+- Maria Weber (Production Geologist, my direct supervisor)
+- The entire L8-A offshore crew for their hospitality and teaching
+
+This experience has solidified my interest in pursuing a career in reservoir
+geology and subsurface characterization within the energy industry.
+
+=== APPENDICES ===
+
+Appendix A: Well Summary Tables
+Appendix B: Seismic Horizon Maps
+Appendix C: Production Performance Curves
+Appendix D: Python Scripts for Data Processing
+
+Report prepared by: [Student Name]
+Date: September 5, 2024
+University: Technical University of Munich
+Program: M.Sc. Applied Geosciences
+
+Contact: student.email@tum.de
